@@ -83,7 +83,7 @@ void setup() {
   Bridge.begin(); 	/* Initialize the Bridge */
   Serial.begin(9600); 	/* Initialize the Serial for debugging */
   FileSystem.begin();   /* Setup File IO */
-  delay(5000);
+  delay(7000);
   Serial.println("!1");
 
 
