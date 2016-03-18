@@ -24,7 +24,7 @@
 #include <FileIO.h>
 //#include "LedControl.h" /* Downloaded From http://playground.arduino.cc/Main/LedControl */
 
-const int ledPin =  9; /* Led on Pin 13 */
+const int ledPin =  12; /* Led on Pin 13 */
 char* settings_file = "/root/gmail_settings\0"; /* This is the settings file */
 char* login_file = "/root/gmail_login\0"; /* This is the settings file */
 char* passwd_file = "/root/gmail_passwd\0"; /* This is the settings file */
