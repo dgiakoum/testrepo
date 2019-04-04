@@ -37,7 +37,7 @@ char labelbuffer[256]; /* We will need a buffer for getting the label parameter 
 /* GMAIL SETTINGS */
 
 const String username = "gademis@gmail.com";
-const String password = "aposkata";
+const String password = "gmiso";
 const String label_to_check = "testlabel";
 String label;
 
