@@ -23,6 +23,7 @@
 #include <Process.h>
 #include <FileIO.h>
 //#include "LedControl.h" /* Downloaded From http://playground.arduino.cc/Main/LedControl */
+//A thing is a thing//
 
 const int ledPin =  12; /* Led on Pin 13 */
 char* settings_file = "/root/gmail_settings\0"; /* This is the settings file */
@@ -37,7 +38,7 @@ char labelbuffer[256]; /* We will need a buffer for getting the label parameter 
 /* GMAIL SETTINGS */
 
 const String username = "gademis@gmail.com";
-const String password = "aposkata";
+const String password = "mypass123";
 const String label_to_check = "testlabel";
 String label;
 
