@@ -23,7 +23,7 @@
 #include <Process.h>
 #include <FileIO.h>
 //#include "LedControl.h" /* Downloaded From http://playground.arduino.cc/Main/LedControl */
-//A thing is a thinasdsadsdadg//
+//A thing is a thing//
 
 const int ledPin =  12; /* Led on Pin 13 */
 char* settings_file = "/root/gmail_settings\0"; /* This is the settings file */
