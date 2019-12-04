@@ -54,6 +54,7 @@ String label_to_check;
  pin 11 is connected to the CLK 
  pin 10 is connected to LOAD 
  We have only a single MAX72XX.
+ THIS IS THE CHANGE I MADE
  */
 
 //LedControl lc=LedControl(12,11,10,1);
